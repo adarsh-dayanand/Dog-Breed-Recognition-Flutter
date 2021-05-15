@@ -1,6 +1,6 @@
-# DogBreed
+# Dog Breed Recogniser
 
-A new Flutter project.
+Flutter project to recognaise the breed of the dog.
 
 ## Getting Started
 
